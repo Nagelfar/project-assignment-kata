@@ -14,7 +14,8 @@
 		},
 		"vscode": {
 			"extensions": [
-				"ms-dotnettools.csharp"
+				"ms-dotnettools.csharp",
+				"redhat.vscode-yaml"
 			]
 		}
 	},
